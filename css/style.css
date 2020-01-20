@@ -3,7 +3,7 @@ section {
 }
 
 .top-bg-image {
-	background-image: url(img/blur-close-up-code-computer-546819.jpg);
+	background-image: url(../img/blur-close-up-code-computer-546819.jpg);
 	width: fill;
 	height: 300px;
 	background-position: center;
@@ -32,7 +32,7 @@ section {
 }
 
 .user-profile-image {
-	background-image: url(img/cat-68594.jpg);
+	background-image: url(../img/cat-68594.jpg);
 	display: block;
 	justify-content: center;
 	width: 200px;
