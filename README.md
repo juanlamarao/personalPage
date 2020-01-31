@@ -1,3 +1,3 @@
 # personalPage
 
-Acess it at juanlamarao.github.io/personalPage
+Acess it at https://www.juanlamarao.github.io/personalPage
